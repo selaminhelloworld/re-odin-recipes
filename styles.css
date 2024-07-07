@@ -11,3 +11,11 @@ h1 {
 p, li {
     font-size: large;
 }
+
+ul > li {
+    background-color: #CEAB93;
+}
+
+ol > li {
+    background-color: #E3CAA5;
+}
