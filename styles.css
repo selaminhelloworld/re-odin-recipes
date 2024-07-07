@@ -3,19 +3,32 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+h1, h2 {
     background-color: #CEAB93;
     text-align: center;
 }
 
+p {
+    text-align: center;
+}
+
 p, li {
-    font-size: large;
+    font-size: 24px;
 }
 
 ul > li {
-    background-color: #CEAB93;
+    background-color: #E3CAA5;
 }
 
 ol > li {
     background-color: #E3CAA5;
+}
+
+img {
+    display: block;
+    margin: 16px auto;
+}
+
+.homepage-ul > li {
+    text-align: center;
 }
